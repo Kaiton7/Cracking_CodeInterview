@@ -13,4 +13,5 @@ def Solve(ll):
         fast=fast.next
         slow=slow.next
 
-    return fast 
+    return fast
+
